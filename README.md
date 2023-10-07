@@ -1,2 +1,3 @@
-# tSunadeBey_v1_0
-# tSunade_Bey_v1_0 - JavaScript Reminder Bot  ![Tsunade Bey](tsunade_bey_image.jpg)  ## Overview  Your ultimate JavaScript Reminder Bot. Effortlessly manage reminders, get notifications, and stay organized like a ninja. 📆🥷
+## Overview
+
+Welcome to **sTunadeBey_v1_0**, your JavaScript-based Reminder Bot. This project is designed to help you manage your daily tasks efficiently and never forget important events.
