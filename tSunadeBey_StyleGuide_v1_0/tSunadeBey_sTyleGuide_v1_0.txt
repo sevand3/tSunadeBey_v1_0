@@ -1,0 +1,133 @@
+﻿# Style Guide for tSunadeBey_v1_0 🍥
+
+
+**Version**: tSunadeBey_v1_0  
+**Date**: October 7, 2023
+
+
+## 1. Project Introduction
+
+
+The tSunadeBey_v1_0 project is inspired by the wisdom of Jiraiya Sensei and the resilience of Konoha village. With its roots in IT Program Management, it embodies the spirit of Agile methodologies, PARA sorting methods, and SMART goals, all guided by Bruce Lee's philosophical views.
+
+
+## 2. Naming Conventions 📛
+
+
+### Repositories
+- **Format**: lowercase and underscores  
+  **Example**: `tsunadebey_database_v1_0`
+
+
+### Files and Directories
+- **Format**: CamelCase  
+  **Example**: `ChakraTrainingModule.py`
+
+
+### Variables
+- **Format**: snake_case  
+  **Example**: `tsunade_health`
+
+
+### Classes and Objects
+- **Format**: PascalCase  
+  **Example**: `NinjaTechniques()`
+
+
+## 3. Documentation 📝
+
+
+### Inline Comments
+- Use inline comments sparingly, only when necessary to explain complex code snippets.
+  
+  **Example**: 
+  ```python
+  # Calculate chakra balance for Tsunade
+  chakra_balance = total_chakra - used_chakra
+  ```
+
+
+### Docstrings
+- For classes and functions, use triple double-quotes for docstrings.  
+  **Example**:
+  ```python
+  def rasengan_power(level):
+      """
+      Calculate the power of the Rasengan based on level.
+      Args:
+      - level (int): Power level of Rasengan.
+      
+      Returns:
+      - int: Total power.
+      """
+      return level * 10
+  ```
+
+
+## 4. Code Style ⚙️
+
+
+### Indentation
+- Use 4 spaces for indentation.
+
+
+### Line Length
+- Limit lines to a maximum of 80 characters.
+
+
+### Functions
+- Functions should be short and do one thing. They should fit on one screen.
+
+
+### Variables
+- Use descriptive variable names.  
+  **Example**: `jutsu_list` instead of `jl`.
+
+
+## 5. Commit Messages 💌
+
+
+- Begin with a capital letter.
+- Use the imperative mood.  
+  **Example**: "Add user authentication" instead of "Added user authentication".
+
+
+## 6. Testing 🧪
+
+
+- All major functions should have accompanying unit tests.
+- Follow the `given_when_then` structure for test names.  
+  **Example**: `given_low_chakra_when_attack_then_fail`.
+
+
+## 7. Collaboration 🤝
+
+
+- Always create a new branch when working on new features.
+- Merge requests should be reviewed by at least one other team member.
+  
+## 8. Visual and UI/UX 🎨
+
+
+- Embrace the vibrant colors and aesthetic of Konoha village.
+- Icons should reflect Naruto-inspired symbols, like the Konoha leaf.
+
+
+## 9. Error Handling 🚫
+
+
+- All errors should be logged.
+- Users should receive friendly, actionable error messages.
+
+
+## 10. Wisdom Nuggets 🌟
+
+
+- Remember, the code is more for humans than machines. Make it readable.
+- Stay curious, and remember the teachings of Jiraiya Sensei.
+
+
+---
+
+
+This style guide serves as the village emblem for the tSunadeBey_v1_0 project. Let it guide you in times of both calm and chaos! 🍃🌀
